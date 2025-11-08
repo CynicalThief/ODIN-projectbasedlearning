@@ -1,0 +1,41 @@
+* {
+ color:aliceblue;
+ text-align: center;
+ align-items: center;
+}
+
+
+body {
+    background-color: black;
+}
+
+.card {
+    background-color: black;
+    border-color: aliceblue;
+    margin: 31px auto;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    padding: 12px;
+}
+
+.box {
+    border-color: aliceblue;
+    margin: 10px;
+    width: auto;
+    border-style: solid;
+    padding: 10px;
+    
+}
+
+.buttone {
+    background-color: orange;
+    color:black;
+    
+}
+
+.buttonbox {
+    margin: 5px;
+    display: flex;
+  justify-content: center;
+}
